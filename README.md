@@ -61,9 +61,6 @@ Activision's Pitfall'da yapan platform oyunu gibi diğerleri  sektörde etkili o
 
 Pitfall Harry'nin bir sarmaşıkta sallanma yeteneği Tarzan'dan geliyor
 
-![alt metin]([URL1](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/5e7ad7ab-5f91-4bd9-a115-bc6733543a8c)) ![alt metin2]([URL2](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/639a5135-2c14-452e-9fac-aad106260b12))
-
-![pitfall-1648571407539](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/5e7ad7ab-5f91-4bd9-a115-bc6733543a8c)
 ![Pitfall-Tout_A](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/639a5135-2c14-452e-9fac-aad106260b12)
 
 
@@ -71,54 +68,49 @@ Pitfall Harry'nin bir sarmaşıkta sallanma yeteneği Tarzan'dan geliyor
 
 Bir oyun eleştirmeni, hayatta kalma korkusunun kökenini 1982 VCS kartuşu Haunted House'a kadar izliyor.
 
-![2367705-a2600_hauntedhouse_2-653x900.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60e5626b-a6fb-4f72-8414-a43e8ad0ab02/2367705-a2600_hauntedhouse_2-653x900.jpg)
-
-![Screen_scrolling_in_Atari_game_Haunted_House.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7175104-4756-4eaf-8636-0bd2987e6853/Screen_scrolling_in_Atari_game_Haunted_House.gif)
+![Screen_scrolling_in_Atari_game_Haunted_House](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/e51968be-003d-41da-8cba-641879b1d975)
 
 # Konami - Frogger
 
 Frogger Konami tarafından geliştirilen 1981 arcade oyunudur. Sega-Gremlin tarafından Kuzey Amerika dağıtımı olmuş ve dünya çapında Sega tarafından lisanslanmıştır. Bu roman oyun ve tema için dikkat, video arcade oyunların altın çağından bir klasik olarak kabul edilir.
 
-![240.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2de5c86-dd93-466c-a275-f4afa4d0ecfd/240.jpg)
-
-![Croaky1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/65c1c7e3-b1bd-4a0d-a5d4-5afe2ad80601/Croaky1.jpg)
+![frogger](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/4eb615d1-bf0c-4e99-b7ff-776b775c4140)
 
 # **Steve Mayer and Ron Milner -** Combat
 
 Altı oyun kategorisi vardır. İlk kategori olan tank, üç arazi türünden birinde düz veya güdümlü füze ateşleyen tanklara sahiptir. Tank oyunlarında atışlar duvarlardan sekmez, ancak bir sonraki kategori olan Tank-Pong'daki oyunlarda geri döner. Bu oyunların bazılarında, bir öldürme için bir "bilardo vuruşu" (en az bir kez geri dönen bir atış) gereklidir. Ayrıca, kişinin tankının yalnızca ateşlendiğinde veya vurulduğunda görülebildiği Görünmez Tank ve Görünmez Tank-Pong oyunları da vardır.
 
-![indir.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b52d218-daab-497a-9f31-5a25c06ccbb8/indir.jpg)
+![combat](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/2b09b52f-8b02-4a24-a0b6-e03927146a66)
 
-![maxresdefault.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20c53a04-16f2-4ff2-8aeb-88f22b21f9fb/maxresdefault.jpg)
 
 # Pac-Man
 
 Klasik Pac-Man bilgisi, Iwatani'nin pizza yerken bu tasarım problemini düşündüğünü iddia eder. Bir dilimi çıkarılmış turtaya baktığında, ağzı açık bir kafa gördü ve onu bir şeyler yiyen antropomorfize edilmiş bir karakter olarak hayal etti. Iwatani labirenti yemeyi yapılandırmanın bir yolu olarak tasarladı ve oyuna Pakku- adını verdi. Japon onomatopoeia “paku-paku”dan türetilmiştir - yemek yerken ağzın açılıp kapanma sesi.
 
+![Pac-man_oyununun_başlangıcı](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/7fd5b648-5724-42f2-bcfc-3a2e9284bf9f)
+
 # Yar’s Revenge
 
 Oyuncu, Zorlon Topunu gedik içine ateşlemek için bir bariyeri kemirmesi veya ateş etmesi gereken Yar adlı böceğe benzer bir yaratığı kontrol eder.Star Castle'ın aynı temel oyun ilkelerini kullanır.Star Castle'da olmayan bir özellik, tarafsız bölge şerididir; Yar, bu bölgede yok edici füzeye karşı güvendedir, ancak ateş edemez ve Qotile'nin girdap şeklinde kendini ateşlediği daha güçlü bir saldırıdan korunamaz.
 
-![Yars_Revenge_cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b91c208-2158-43ec-b067-4b739f6e993c/Yars_Revenge_cover.jpg)
+![yars revenge](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/7d175dfc-a8d3-4771-b34b-c3df8069746d)
 
-![indir.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f660d909-5dc1-4bc9-88c5-521ef220b41a/indir.png)
 
 # Lyle Rains and Ed Logg - Asteroids
 
 Space Invaders, bireysel oyunlardaki yüksek puanları izleyen ilk atari video oyunuydu, ancak Asteroids, oyuncuların yüksek puanları baş harfleriyle kişiselleştirmelerine izin veren ilk oyundu.
 
-![s-l600.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c82d30e0-4327-483a-8d5c-1d44ce8f980b/s-l600.jpg)
-
-![webp-1280.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82ff16ce-0362-43c1-aa43-388a59b9b725/webp-1280.webp)
+![asteroids](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/dfafec6e-56e1-482c-8e03-73a28d815d3a)
 
 # Star Castle
 
 Star Castle'ın amacı, ekranın ortasındaki dönen topu, Asteroids ve Space Wars'daki gibi görünen ve hareket eden üçgen, dönen gemisiyle defalarca yok etmektir. Düşman topu, renkli kaplamaların arkasında belirir ve her biri çizgi parçalarından yapılmış, eş merkezli, dönen üç kalkanla çevrilidir. Segmentler, oyuncunun gemisinden çıkan ateşle yok edilebilir, ancak tüm bir halka vurulduğunda, yenilenir. Oyuncu topa giden yolu açtığında, onu yok etmek için ona ateş etme şansı yaratır, top oyuncunun gemisine doğru büyük bir füze fırlatır. Oyuncu kalkan halkalarını kırmaya çalışırken, üç mayın da dışarı çıkar ve oyuncunun gemisini arar. Kaçınılabilir veya vurulabilirler, ancak onları vurmak skoru artırmaz ve kısa süre sonra yeniden ortaya çıkar. Merkezi bir top nihayet başarılı bir şekilde yok edildikten sonra, etrafındaki üç sağlam halkayla bir başkası hızla belirir.
 
-![5087--star-castle.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f04f07bd-bed1-4a0a-aa2e-68b01d2b12e2/5087--star-castle.png)
+![starcastle](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/1dd9e1cb-204c-4474-9184-a53e8a32f34a)
 
-![mqdefault.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fea515b-c026-48a8-89fc-071530adfc4d/mqdefault.jpg)
 
 # Star Wars: The Empire Strikes Back
 
 Star Wars: The Empire Strikes Back'in senaryosu, Space Invaders ve diğer birçok atari oyununun senaryosuna benzer, çünkü düşman sürekli olarak gelmeye devam eder. Kazanmanın bir yolu yoktur - yalnızca daha uzun veya daha kısa bir süre dayanma olasılığı vardır. Bu oyun yapısıyla ilgili ilginç olan şey, The Empire Strikes Back filmindeki Asi İttifakının Hoth üssüne İmparatorluk yürüyüşçüleri tarafından yapılan bir saldırıyı püskürtemediği ve yalnızca onları bir süre uzak tuttuğudur.
+
+![starwars](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/02d4ee18-052c-42ba-994a-a456564613ef)
