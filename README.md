@@ -61,8 +61,10 @@ Activision's Pitfall'da yapan platform oyunu gibi diğerleri  sektörde etkili o
 
 Pitfall Harry'nin bir sarmaşıkta sallanma yeteneği Tarzan'dan geliyor
 
-<align="left" alt="Coding" width="400" src="![pitfall-1648571407539](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/5e7ad7ab-5f91-4bd9-a115-bc6733543a8c)">
-<align="right" alt="Coding" width="400" src="![Pitfall-Tout_A](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/639a5135-2c14-452e-9fac-aad106260b12)">
+![alt metin]([URL1](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/5e7ad7ab-5f91-4bd9-a115-bc6733543a8c)) ![alt metin2]([URL2](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/639a5135-2c14-452e-9fac-aad106260b12))
+
+![pitfall-1648571407539](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/5e7ad7ab-5f91-4bd9-a115-bc6733543a8c)
+![Pitfall-Tout_A](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/639a5135-2c14-452e-9fac-aad106260b12)
 
 
 # **James Andreasen - Haunted House**
