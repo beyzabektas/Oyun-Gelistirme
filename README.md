@@ -32,7 +32,8 @@ Asimetrik oyunlarda, oyuncular farklı yeteneklere, farklı güçlü ve zayıf y
 
 Matematikte, bir çeşitkenar üçgen, tüm açıların tüm boyutlarının ve tüm kenarlarının uzunluklarının farklı olduğu bir üçgendir. Ancak neredeyse bir eşkenar üçgen gibi görünen bir çeşitkenar üçgen çizmek mümkündür. Belki bir açı 60 derecedir, biri 60 derecenin biraz üzerindedir ve diğeri 60 derecenin hemen altındadır. Asimetriktir, ancak asimetrisi 5, 121 ve 54 derecelik açılara sahip başka bir üçgen kadar belirgin değildir.
 
-![https___tf-cmsv2-smithsonianmag-media.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2da6c946-c22a-4d0a-8426-fdc2aed6770e/https___tf-cmsv2-smithsonianmag-media.webp)
+![spaceinvaders](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/cd6e54ef-2afc-49c5-88c9-e522d36aa139)
+
 
 Bir oyun, tüm oyuncular için hemen hemen aynı seçeneklere sahip olabilir, ancak biraz farklı oyuncu güçleri olabilir. Örneğin, bir oyuncu "zıplama" eylemi yaptığında daha uzağa zıplayabilirken, başka bir oyuncu "saldırı" eylemi yaptığında daha sert vurabilir.
 
@@ -42,7 +43,8 @@ Bir oyun, tüm oyuncular için hemen hemen aynı seçeneklere sahip olabilir, an
 
 Bilgisayar kontrollü bir rakip sağlamayı başaran Atari kartuşlu Basketbol'uydu. Ancak bundan önce bile, VCS lansman oyunlarından biri olan Video Olimpiyatları, antropomorfik olmasa da yenilmesi imkansız olmadan meydan okumayı başaran bir rakip sağlayan tek oyunculu bir "Robot Pong" modu sunuyordu.
 
-![Ekran Görüntüsü (81).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/107ca86b-963d-4bd6-b950-c21b32c10251/Ekran_Grnts_(81).png)
+![basketball](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/c38c03e1-0118-4b74-be72-9fbe5ce733ab)
+
 
 # Activision - River Raid
 
