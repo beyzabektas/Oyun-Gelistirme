@@ -12,13 +12,15 @@ Ekrandan daha büyük bir sanal alana sahip bir oyun fikrinin bir noktada ilk ke
 
 Spacewar ilk dijital bilgisayar video oyunlarından biridir. İki kişilik oynanan bir oyundur. Ekranın ortasında bir yıldız, hem gemilerde çeker ve içine düşmesini önlemek için manevra gerektirir.
 
-![A26_01.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6b8714e-31b4-486f-a71f-5f659082ae1b/A26_01.gif)
+![spacewar](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/20850219-a6a5-4e11-9bda-8bbfadf2c45a)
+
 
 # Allan Alcorn - Pong
 
 Atari'nin kurucusu Nolan Bushnell, 1972'de Ping-Pong'un video versiyonu fikrini tasarladı ve onu yaratması için mühendis Allan Alcorn'u görevlendirdi. Birkaç ay içinde Alcorn, madeni parayla çalışan bir arcade versiyonu için bir prototip geliştirdi, o kadar ilgi çekiciydi ki, onu mahalledeki bir barda test eden kullanıcılar madeni para kutusunu taşana kadar doldurdu.
 
-![Pong460x276.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c9ecdc2-1f09-4d66-98a3-5a068ce8bc52/Pong460x276.webp)
+![Pong460x276](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/438e7afb-8435-4774-a442-8ca0a1b7a37e)
+
 
 # Tomohiro Nishikado -  Space Invaders
 
