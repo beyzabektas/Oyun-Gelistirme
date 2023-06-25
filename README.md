@@ -1,6 +1,8 @@
+UYARI: Yukarıda paylaşılan makalelerin çevirisi, otomatik çeviri ile yapılmıştır,dil bilgisi hataları olabilir.
+
 # Video Oyunları Dünyası
 
-Oyun dünyası üzerine bulduğum makaleleri türkçeye çeviriyorum.
+Video Oyunları üzerine yaptığım araştırmalarda farklı kaynaklardan edindiğim notlar aşağıdadır.
 
 # Warren Robinett - Adventure
 
