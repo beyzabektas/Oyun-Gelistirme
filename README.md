@@ -14,7 +14,6 @@ Spacewar ilk dijital bilgisayar video oyunlarından biridir. İki kişilik oynan
 
 ![spacewar](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/20850219-a6a5-4e11-9bda-8bbfadf2c45a)
 
-
 # Allan Alcorn - Pong
 
 Atari'nin kurucusu Nolan Bushnell, 1972'de Ping-Pong'un video versiyonu fikrini tasarladı ve onu yaratması için mühendis Allan Alcorn'u görevlendirdi. Birkaç ay içinde Alcorn, madeni parayla çalışan bir arcade versiyonu için bir prototip geliştirdi, o kadar ilgi çekiciydi ki, onu mahalledeki bir barda test eden kullanıcılar madeni para kutusunu taşana kadar doldurdu.
@@ -53,7 +52,7 @@ Carol Shaw ve Activision tarafından 1982'de Atari 2600 video oyun konsolu için
 Günümüzün video oyunu türlerinin gelişiminin bir kısmı bilgisayar oyunları ve atari oyunları sayesinde ortaya çıktı, ancak Atari VCS için oyunlar da önemli katkılar sağladı.
 Örneğin, Activision'ın River Raid'i tarafından geliştirilen dikey kaydırma çubuğu
 
-![maxresdefault.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69508739-f195-44ad-aee1-8433b0ba6c56/maxresdefault.jpg)
+![riverpaid](https://github.com/beyzabektas/Oyun-Gelistirme/assets/91256847/f5d3e642-3d71-4985-ab35-e0e85687a8e0)
 
 # David Crane - Pitfall
 
