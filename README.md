@@ -6,7 +6,7 @@ Ekrandan daha büyük bir sanal alana sahip bir oyun fikrinin bir noktada ilk ke
 
 İlk de “resmi” Easter Egg bu oyundadır  Robinett, adını Adventure'a izinsiz olarak eklemişti.
 
-![Atari-Adventure-Warren-Robinett.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd733d5d-7390-4d6a-8c86-8634cda49f93/Atari-Adventure-Warren-Robinett.png)
+https://www.notion.so/Video-Oyunlar-D-nyas-1610908b84c24474a3720fcdfd98af98?pvs=4#2c694d03465d4494a2aafc4f9b06cdf5
 
 # **Steve Russell - Spacewar**
 
