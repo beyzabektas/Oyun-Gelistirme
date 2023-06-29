@@ -1,4 +1,4 @@
-UYARI: Yukarıda paylaşılan makalelerin çevirisi, otomatik çeviri ile yapılmıştır,dil bilgisi hataları olabilir.
+UYARI: Yukarıda paylaşılan makalelerin çevirisi, otomatik çeviri ile yapılmıştır, dil bilgisi hataları olabilir.
 
 # Video Oyunları Dünyası
 
