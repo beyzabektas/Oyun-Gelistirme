@@ -1,9 +1,5 @@
 UYARI: Yukarıda paylaşılan makalelerin çevirisi, otomatik çeviri ile yapılmıştır, dil bilgisi hataları olabilir.
 
-# Video Oyunları Dünyası
-
-Video Oyunları üzerine yaptığım araştırmalarda farklı kaynaklardan edindiğim notlar aşağıdadır.
-
 # Warren Robinett - Adventure
 
 Ekrandan daha büyük bir sanal alana sahip bir oyun fikrinin bir noktada ilk kez geliştirilmesi ve uygulanması gerekiyordu.Bu 1978'de Atari VCS için ilk grafik macera oyunu olan Adventure'ı tasarlayıp programlayan Warren Robinett tarafından yapıldı.
