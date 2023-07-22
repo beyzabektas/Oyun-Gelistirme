@@ -1,4 +1,4 @@
-UYARI: Yukarıda paylaşılan makalelerin çevirisi, otomatik çeviri ile yapılmıştır, dil bilgisi hataları olabilir.
+NOT: Yukarıda paylaşılan makalelerin çevirisi, otomatik çeviri ile yapılmıştır, dil bilgisi hataları olabilir.
 
 # Warren Robinett - Adventure
 
